@@ -10,7 +10,7 @@ Practicing random coding interview questions during my MS CS at UFL.
 |[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Sol 1](./src/easy/1486_1.py), [Sol 2](./src/easy/1486_2.py)| XOR, reduce | Easy |
 |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Sol 1](./src/easy/771_1.py), [Sol 2](./src/easy/771_2.py), [Sol 3](./src/easy/771_3.py),[Sol 4](./src/easy/771_4.py)|set,counter | Easy |
 |[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Sol 1](./src/easy/1672_1.py), [Sol 2](./src/easy/1672_2.py)|sum, max| Easy|
-|[Running Sum of 1-D Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Soln 1](./src/easy/1480_1.py), [Soln 2](./src/easy/1480_2.py), [Soln 3](./src/easy/1480_3.py) | itertools,walrus operator | Easy |
+|[Running Sum of 1-D Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Soln 1](./src/easy/1480_1.py), [Soln 2](./src/easy/1480_2.py), [Soln 3](./src/easy/1480_3.py), [Soln 4](./src/easy/1480_4.py), [Soln 5](./src/easy/1480_5.py) | itertools,walrus operator | Easy |
 |[Ransom Note](https://leetcode.com/problems/ransom-note/)| [Soln 1](./src/easy/383_1.py), [Soln 2](./src/easy/383_2.py)|string,counter| Easy|
 |[Assign Cookies](https://leetcode.com/problems/assign-cookies)| [Soln](./src/easy/455_1.py)|double pointers|Easy|
 
